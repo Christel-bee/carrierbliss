@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://christel-bee.github.io/carrierbliss/sitemap.xml
